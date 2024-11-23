@@ -1,5 +1,8 @@
 <h1>Azure AI Cohort :sparkles: </h1>
 <br>
+<table align="center" style="border: none;">
+<td><img src="./azdev.png" width="300px" heigth="300px" /></td><td>&nbsp; <img src="./reskill.png" width="300px" heigth="300px" /></td> 
+</table>
 
 <p align="center">
   <a href="#date"><strong>Date and Time</strong></a> ·
