@@ -1,6 +1,4 @@
-<p align="center">
-  <h1>Azure AI Cohort</h1>
-</p>
+<h1>Azure AI Cohort :sparkles: </h1>
 <br>
 
 <p align="center">
@@ -19,7 +17,6 @@ Join us and become part of a community exploring the future of AI on Azure!
 # Date
  Date: 6 December - 28 December <br />
  Timing: 7:00 PM - 9:00 PM
-
 
 # Speakers
 Adithya Saladi &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-adithyasaladi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithyasaladi/) &nbsp;
