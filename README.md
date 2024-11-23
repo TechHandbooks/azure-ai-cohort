@@ -6,7 +6,7 @@
 <p align="center">
   <a href="#date"><strong>Date and Time</strong></a> ·
   <a href="#speakers"><strong>Speakers</strong></a> ·
-  <a href="#contributing"><strong>Contributing</strong></a>
+  <a href="#schedule"><strong>Schedule</strong></a>
 </p>
   Welcome to the Azure AI Cohort, a virtual event dedicated to helping developers and AI enthusiasts harness the full potential of Microsoft Azure’s AI services. This cohort is designed for anyone looking to deepen their understanding of AI development and cloud integration using Azure’s powerful tools and frameworks.
 
@@ -17,70 +17,25 @@ Whether you’re an experienced developer or just starting with AI, the Azure AI
 Join us and become part of a community exploring the future of AI on Azure!
 
 # Date
-
+ Date: 6 December - 28 December <br />
+ Timing: 7:00 PM - 9:00 PM
 
 
 # Speakers
 Adithya Saladi &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-adithyasaladi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithyasaladi/) &nbsp;
 <br />
-Ajay Kumar S &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-movingtoweb-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/movingtoweb/) &nbsp;
+Ajay Kumar S &nbsp; &nbsp;  [![Linkedin Badge](https://img.shields.io/badge/-movingtoweb-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/movingtoweb/) &nbsp;
 <br />
 
-
-## Documentation
-
-### [0-1 Cohort](./0-1/README.md)
-
-The foundational building blocks of my development journey within the 100xDevs program.([Dive In](./0-1/README.md#showcase))
-
-### [1-100 Cohort](./1-100/)
-
-Transforming into a full-stack ninja 🥷. ([Dive In](./1-100/README.md#showcase))
-</br></br>
-
-## Highlights
-
-- **Roadmap**: From basics to advanced skills, detailed assignments guide your journey.
-
-- **Master The Stack**: HTML, CSS, JS, TS, React, Express, Mongo, NextJS, DevOps, System Design & more.
-
-- **Killer Portfolio**: Strengthen your portfolio with diverse projects highlighting your skills.
-
-- **Bounty-Hunting**: Dive into creative problem-solving with challenging bounties.
-
-- **Real-world Projects**: See theory in action through practical, real-world projects.
-  </br></br>
-
-## Tech Stack
-
-- [AWS](https://aws.amazon.com/) – cloud services
-
-- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) – modular css
-
-- [Docker](https://www.docker.com/) – containerization
-
-- [Git](https://git-scm.com/) – versioning
-
-- [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) – structuring
-
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – primary language
-
-- [MongoDB](https://www.mongodb.com/) – NoSQL database
-
-- [MySQL](https://www.mysql.com/) – relational database
-
-- [NGINX](https://www.nginx.com/) – web server
-
-- [Next.JS](https://nextjs.org/) – react framework
-
-- [NodeJS](https://nodejs.org/) – js runtime
-
-- [React](https://reactjs.org/) – js library for UI
-
-- [Tailwind](https://tailwindcss.com/) – css framework
-
-- [TypeScript](https://www.typescriptlang.org/) – typed javaScript
-
-- [Vercel](https://vercel.com/) – deployments
-  </br></br>
+# Schedule
+| Date          | Topic         | Agenda         | Resources |
+| ------------- | ------------- | ------------- | ------------- |
+| 06 December 2024 | Introduction to AI | <pre>Overview of AI: Definition and history <br />Types of AI: Narrow vs. General AI, Machine Learning, Deep Learning<br />Applications of AI: Real-world use cases in various industries<br />Discussion: Ethical considerations in AI </pre> | |
+| 07 December 2024 | Fundamentals of Machine Learning | <pre>Introduction to Machine Learning: Key concepts and terminology <br/>Types of Machine Learning: Supervised, unsupervised, and reinforcement learning <br/>Hands-On Activity: Building a simple machine learning model using Python and scikit-learn </pre> | |
+| 13 December 2024 | Data Preparation and Processing | <pre>Importance of Data: Data collection, cleaning, and preprocessing<br/>Feature Engineering: Techniques for improving model performance<br/>Hands-On Activity: Data preprocess </pre> | |
+| 14 December 2024 | Deep Learning Basics | <pre>What is Deep Learning?: Neural networks and their architecture<br/>Common Frameworks: Introduction to Azure Databricks and PyTorch<br/>Hands-On Activity: Building a simple neural network for image classification </pre> | |
+| 20 December 2024 | Natural Language Processing (NLP) | <pre>Overview of NLP: Techniques and applications<br/>Key Concepts: Tokenization, embeddings, and language models<br/>Hands-On Activity: Text classification with Azure ML Service </pre> | |
+| 21 December 2024 | AI in Practice: Building a Mini Project | <pre>Project Planning: Selecting a project idea and defining objectives<br/>Team Collaboration: Tools and practices for effective teamwork<br/>Hands-On Activity: Start working on the mini project (e.g., a chatbot, image recognizer) </pre> | |
+| 27 December 2024 | Model Evaluation and Optimization | <pre>Evaluation Metrics: Accuracy, precision, recall, F1-score, and ROC-AUC<br/>Hyperparameter Tuning: Techniques to optimize model performance<br/>Hands-On Activity: Evaluating and tuning the mini project modelI </pre> | |
+| 28 December 2024 | Future of AI and Career Paths | <pre>Emerging Trends: AI advancements and their implications<br/>Career Opportunities: Roles in AI and how to pursue them<br/>Final Project Presentations: Showcase mini projects and share learnings<br/>Q&A Session: Open discussion on AI topics of interest </pre> | |
 
