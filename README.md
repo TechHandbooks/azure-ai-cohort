@@ -4,7 +4,9 @@
 <p align="center">
   <a href="#date"><strong>Date and Time</strong></a> ·
   <a href="#speakers"><strong>Speakers</strong></a> ·
-  <a href="#schedule"><strong>Schedule</strong></a>
+  <a href="#schedule"><strong>Schedule</strong></a> . 
+  <a href="#organizers"><strong>Organizers</strong></a> 
+  
 </p>
   Welcome to the Azure AI Cohort, a virtual event dedicated to helping developers and AI enthusiasts harness the full potential of Microsoft Azure’s AI services. This cohort is designed for anyone looking to deepen their understanding of AI development and cloud integration using Azure’s powerful tools and frameworks.
 
@@ -36,3 +38,5 @@ Ajay Kumar S &nbsp; &nbsp;  [![Linkedin Badge](https://img.shields.io/badge/-mov
 | 27 December 2024 | Model Evaluation and Optimization | <pre>Evaluation Metrics: Accuracy, precision, recall, F1-score, and ROC-AUC<br/>Hyperparameter Tuning: Techniques to optimize model performance<br/>Hands-On Activity: Evaluating and tuning the mini project modelI </pre> | |
 | 28 December 2024 | Future of AI and Career Paths | <pre>Emerging Trends: AI advancements and their implications<br/>Career Opportunities: Roles in AI and how to pursue them<br/>Final Project Presentations: Showcase mini projects and share learnings<br/>Q&A Session: Open discussion on AI topics of interest </pre> | |
 
+# Organizers
+This event is organized by <a href="https://reskilll.com/">ReSkill</a> as part of <a href="https://azdev.reskilll.com/">Azure Developer Community</a>.
