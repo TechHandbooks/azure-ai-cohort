@@ -30,16 +30,16 @@ Ajay Kumar S &nbsp; &nbsp;  [![Linkedin Badge](https://img.shields.io/badge/-mov
 <br />
 
 # Schedule
-| Date          | Topic         | Agenda         | Resources |
+| Date          | Topic         | Resources     | Agenda         | 
 | ------------- | ------------- | ------------- | ------------- |
-| 06 December 2024 | Introduction to AI | <pre>Overview of AI: Definition and history <br />Types of AI: Narrow vs. General AI, Machine Learning, Deep Learning<br />Applications of AI: Real-world use cases in various industries<br />Discussion: Ethical considerations in AI </pre> | |
-| 07 December 2024 | Fundamentals of Machine Learning | <pre>Introduction to Machine Learning: Key concepts and terminology <br/>Types of Machine Learning: Supervised, unsupervised, and reinforcement learning <br/>Hands-On Activity: Building a simple machine learning model using Python and scikit-learn </pre> | |
-| 13 December 2024 | Data Preparation and Processing | <pre>Importance of Data: Data collection, cleaning, and preprocessing<br/>Feature Engineering: Techniques for improving model performance<br/>Hands-On Activity: Data preprocess </pre> | |
-| 14 December 2024 | Deep Learning Basics | <pre>What is Deep Learning?: Neural networks and their architecture<br/>Common Frameworks: Introduction to Azure Databricks and PyTorch<br/>Hands-On Activity: Building a simple neural network for image classification </pre> | |
-| 20 December 2024 | Natural Language Processing (NLP) | <pre>Overview of NLP: Techniques and applications<br/>Key Concepts: Tokenization, embeddings, and language models<br/>Hands-On Activity: Text classification with Azure ML Service </pre> | |
-| 21 December 2024 | AI in Practice: Building a Mini Project | <pre>Project Planning: Selecting a project idea and defining objectives<br/>Team Collaboration: Tools and practices for effective teamwork<br/>Hands-On Activity: Start working on the mini project (e.g., a chatbot, image recognizer) </pre> | |
-| 27 December 2024 | Model Evaluation and Optimization | <pre>Evaluation Metrics: Accuracy, precision, recall, F1-score, and ROC-AUC<br/>Hyperparameter Tuning: Techniques to optimize model performance<br/>Hands-On Activity: Evaluating and tuning the mini project modelI </pre> | |
-| 28 December 2024 | Future of AI and Career Paths | <pre>Emerging Trends: AI advancements and their implications<br/>Career Opportunities: Roles in AI and how to pursue them<br/>Final Project Presentations: Showcase mini projects and share learnings<br/>Q&A Session: Open discussion on AI topics of interest </pre> | |
+| 06 December 2024 | Introduction to AI | [Day 1](https://github.com/TechHandbooks/azure-ai-cohort-day-1) | <pre>Overview of AI: Definition and history <br />Types of AI: Narrow vs. General AI, Machine Learning, Deep Learning<br />Applications of AI: Real-world use cases in various industries<br />Discussion: Ethical considerations in AI </pre> |
+| 07 December 2024 | Fundamentals of Machine Learning | [Day 2](https://github.com/TechHandbooks/azure-ai-cohort-day-2) | <pre>Introduction to Machine Learning: Key concepts and terminology <br/>Types of Machine Learning: Supervised, unsupervised, and reinforcement learning <br/>Hands-On Activity: Building a simple machine learning model using Python and scikit-learn </pre> |
+| 13 December 2024 | Data Preparation and Processing | <pre>Importance of Data: Data collection, cleaning, and preprocessing<br/>Feature Engineering: Techniques for improving model performance<br/>Hands-On Activity: Data preprocess </pre> |
+| 14 December 2024 | Deep Learning Basics | []() | <pre>What is Deep Learning?: Neural networks and their architecture<br/>Common Frameworks: Introduction to Azure Databricks and PyTorch<br/>Hands-On Activity: Building a simple neural network for image classification </pre> |
+| 20 December 2024 | Natural Language Processing (NLP) | <pre>Overview of NLP: Techniques and applications<br/>Key Concepts: Tokenization, embeddings, and language models<br/>Hands-On Activity: Text classification with Azure ML Service </pre> |
+| 21 December 2024 | AI in Practice: Building a Mini Project | []() | <pre>Project Planning: Selecting a project idea and defining objectives<br/>Team Collaboration: Tools and practices for effective teamwork<br/>Hands-On Activity: Start working on the mini project (e.g., a chatbot, image recognizer) </pre> |
+| 27 December 2024 | Model Evaluation and Optimization | []() | <pre>Evaluation Metrics: Accuracy, precision, recall, F1-score, and ROC-AUC<br/>Hyperparameter Tuning: Techniques to optimize model performance<br/>Hands-On Activity: Evaluating and tuning the mini project modelI </pre> |
+| 28 December 2024 | Future of AI and Career Paths | []() | <pre>Emerging Trends: AI advancements and their implications<br/>Career Opportunities: Roles in AI and how to pursue them<br/>Final Project Presentations: Showcase mini projects and share learnings<br/>Q&A Session: Open discussion on AI topics of interest </pre> |
 
 # Organizers
 This event is organized by <a href="https://reskilll.com/">ReSkill</a> as part of <a href="https://azdev.reskilll.com/">Azure Developer Community</a>.
