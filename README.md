@@ -7,6 +7,7 @@
 <p align="center">
   <a href="#date"><strong>Date and Time</strong></a> ·
   <a href="#speakers"><strong>Speakers</strong></a> ·
+  <a href="#assignment-submission"><strong>Assignment Submission</strong></a> ·
   <a href="#schedule"><strong>Schedule</strong></a> . 
   <a href="#organizers"><strong>Organizers</strong></a> 
   
@@ -28,6 +29,9 @@ Adithya Saladi &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-adithyasa
 <br />
 Ajay Kumar S &nbsp; &nbsp;  [![Linkedin Badge](https://img.shields.io/badge/-movingtoweb-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/movingtoweb/) &nbsp;
 <br />
+
+# Assignment Submission
+[Microsoft Forms Submission](https://forms.office.com/r/MwtiC6U7Ju?origin=lprLink)
 
 # Schedule
 | Date          | Topic         | Resources     | Agenda         | 
