@@ -9,6 +9,7 @@
   <a href="#speakers"><strong>Speakers</strong></a> ·
   <a href="#assignment-submission"><strong>Assignment Submission</strong></a> ·
   <a href="#schedule"><strong>Schedule</strong></a> . 
+  <a href="#assignment-winners"><strong>Assignment Winners</strong></a> . 
   <a href="#organizers"><strong>Organizers</strong></a> 
   
 </p>
@@ -44,6 +45,9 @@ Ajay Kumar S &nbsp; &nbsp;  [![Linkedin Badge](https://img.shields.io/badge/-mov
 | 21 December 2024 | AI in Practice: Building a Mini Project | [Day 6](https://github.com/TechHandbooks/azure-ai-cohort-day-6) | <pre>Project Planning: Selecting a project idea and defining objectives<br/>Team Collaboration: Tools and practices for effective teamwork<br/>Hands-On Activity: Start working on the mini project (e.g., a chatbot, image recognizer) </pre> |
 | 27 December 2024 | Model Evaluation and Optimization | [Day 7](https://github.com/TechHandbooks/azure-ai-cohort-day-7) | <pre>Evaluation Metrics: Accuracy, precision, recall, F1-score, and ROC-AUC<br/>Hyperparameter Tuning: Techniques to optimize model performance<br/>Hands-On Activity: Evaluating and tuning the mini project modelI </pre> |
 | 28 December 2024 | Future of AI and Career Paths | []() | <pre>Emerging Trends: AI advancements and their implications<br/>Career Opportunities: Roles in AI and how to pursue them<br/>Final Project Presentations: Showcase mini projects and share learnings<br/>Q&A Session: Open discussion on AI topics of interest </pre> |
+
+# Assignment Winners
+[Winners](./Winners.md)
 
 # Organizers
 This event is organized by <a href="https://reskilll.com/">ReSkill</a> as part of <a href="https://azdev.reskilll.com/">Azure Developer Community</a>.
